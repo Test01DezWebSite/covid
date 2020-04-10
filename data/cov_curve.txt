@@ -1,0 +1,15 @@
+# A tibble: 1,282 x 9
+# Groups:   iso3 [80]
+   date       cname iso3  cases deaths cu_cases cu_deaths days_elapsed
+   <date>     <chr> <chr> <dbl>  <dbl>    <dbl>     <dbl> <drtn>      
+ 1 2020-01-22 China CHN     140     11      526        17 0 days      
+ 2 2020-01-23 China CHN      97      0      623        17 1 days      
+ 3 2020-01-24 China CHN     259      9      882        26 2 days      
+ 4 2020-01-25 China CHN     441     15     1323        41 3 days      
+ 5 2020-01-26 China CHN     665     15     1988        56 4 days      
+ 6 2020-01-27 China CHN     787     25     2775        81 5 days      
+ 7 2020-01-28 China CHN    1753     25     4528       106 6 days      
+ 8 2020-01-29 China CHN    1466     26     5994       132 7 days      
+ 9 2020-01-30 China CHN    1740     38     7734       170 8 days      
+10 2020-01-31 China CHN    1980     43     9714       213 9 days      
+# … with 1,272 more rows, and 1 more variable: end_label <chr>

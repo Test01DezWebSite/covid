@@ -1,11 +1,12 @@
 
 # covid
-## Kieran Healy
+## (credit: Kieran Healy)
 
-The inevitable COVID-19 repo. No amateur epidemiological modeling here, just a couple of functions to get current cumulative data from the <https://www.ecdc.europa.eu/en>, clean it a little, and then plot current trends. Also US State-level estimates collated by <https://covidtracking.com>. 
+COVID-19 current cumulative data from the <https://www.ecdc.europa.eu/en> 
 
-![Growth curves](figures/cov_case_grouped.png)
+![Growth curves](Rplots/Rplot_covid_plot0.png)
 
-![National small multiple](figures/cov_case_sm.png)
+![The one everyone does](Rplots/Rplot_covid_plot3.png)
 
-![U.S. State Trend](figures/us_state_casetrend.png)
+![National small multiple](Rplots/Rplot_covid_plot4.png)
+

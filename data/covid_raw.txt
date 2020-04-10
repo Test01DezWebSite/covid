@@ -1,0 +1,15 @@
+# A tibble: 9,717 x 10
+   date_rep   day month  year cases deaths countries_and_t… geo_id
+   <chr>    <dbl> <dbl> <dbl> <dbl>  <dbl> <chr>            <chr> 
+ 1 09/04/2…     9     4  2020    56      3 Afghanistan      AF    
+ 2 08/04/2…     8     4  2020    30      4 Afghanistan      AF    
+ 3 07/04/2…     7     4  2020    38      0 Afghanistan      AF    
+ 4 06/04/2…     6     4  2020    29      2 Afghanistan      AF    
+ 5 05/04/2…     5     4  2020    35      1 Afghanistan      AF    
+ 6 04/04/2…     4     4  2020     0      0 Afghanistan      AF    
+ 7 03/04/2…     3     4  2020    43      0 Afghanistan      AF    
+ 8 02/04/2…     2     4  2020    26      0 Afghanistan      AF    
+ 9 01/04/2…     1     4  2020    25      0 Afghanistan      AF    
+10 31/03/2…    31     3  2020    27      0 Afghanistan      AF    
+# … with 9,707 more rows, and 2 more variables:
+#   countryterritory_code <chr>, pop_data2018 <dbl>
