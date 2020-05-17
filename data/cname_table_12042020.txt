@@ -1,0 +1,14 @@
+# A tibble: 249 x 3
+   iso3  cname               iso2 
+   <chr> <chr>               <chr>
+ 1 AFG   Afghanistan         AF   
+ 2 ALA   Åland Islands       AX   
+ 3 ALB   Albania             AL   
+ 4 DZA   Algeria             DZ   
+ 5 ASM   American Samoa      AS   
+ 6 AND   Andorra             AD   
+ 7 AGO   Angola              AO   
+ 8 AIA   Anguilla            AI   
+ 9 ATA   Antarctica          AQ   
+10 ATG   Antigua and Barbuda AG   
+# … with 239 more rows

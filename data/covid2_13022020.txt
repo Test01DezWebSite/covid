@@ -1,0 +1,15 @@
+# A tibble: 1,040 x 4
+# Groups:   cname [5]
+   date       cname   measure count
+   <date>     <chr>   <chr>   <int>
+ 1 2019-12-31 Denmark Cases      NA
+ 2 2019-12-31 Denmark Deaths     NA
+ 3 2019-12-31 Finland Cases      NA
+ 4 2019-12-31 Finland Deaths     NA
+ 5 2019-12-31 Iceland Cases      NA
+ 6 2019-12-31 Iceland Deaths     NA
+ 7 2019-12-31 Norway  Cases      NA
+ 8 2019-12-31 Norway  Deaths     NA
+ 9 2019-12-31 Sweden  Cases      NA
+10 2019-12-31 Sweden  Deaths     NA
+# … with 1,030 more rows
