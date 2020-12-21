@@ -296,8 +296,8 @@ anti_join(covid, cname_table) %>%
 
 ## cumulative cases for selected countries
 cu_out <- covid %>%
-  filter(iso3 %in% c("DNK", "NOR", "SWE", "FIN",
-                     "ISL")) %>%
+  filter(iso3 %in% c("USA", "ITA", "SWE", "FRA",
+                     "DEU", "BEL")) %>%
   group_by(cname) %>%
   arrange(date) %>%
   mutate(cases_na = na_if(cases, 0),
@@ -379,7 +379,8 @@ cov_curve
 #write.csv(cov_curve,"cov_curve_21122020.csv")
 
 
-focus_cn <- c("DNK", "NOR", "SWE", "FIN", "ISL")
+#focus_cn <- c("DNK", "NOR", "SWE", "FIN", "ISL")
+focus_cn <- c("USA", "ITA", "SWE", "FRA", "DEU", "BEL")
 
 ## Colors
 cgroup_cols <- c(prismatic::clr_darken(paletteer_d("ggsci::category20_d3"), 0.2)[1:length(focus_cn)], "gray70")
@@ -417,7 +418,7 @@ cov_curve %>%
   select(cname, cu_cases, cu_deaths, days_elapsed)
 
 #sink('cov_curve1_17052020.txt'); cov_curve; sink()
-#write.csv(cov_curve,"cov_curve1_21122020.csv")
+#write.csv(cov_curve,"cov_curve10_21122020.csv")
 
 cov_case_curve <- covid %>%
   select(date, cname, iso3, cases, deaths) %>%
@@ -476,8 +477,8 @@ cov_case_curve <- covid %>%
 
 ## Top N countries by >> 100 cases, let's say.
 ## OR better, the last N=50 countries by number >> cases
-n_countries0 <- -50
-#n_countries0 <- 30
+#n_countries0 <- -50
+n_countries0 <- 30
 
 country_panels <- cov_case_curve %>%
   group_by(cname) %>%
@@ -512,26 +513,26 @@ cov_case_curve_endpoints <- cov_case_curve %>%
   geom_line(data = cov_case_curve_bg,
             aes(group = iso3),
             size = rel(0.2), color = "gray80") +
-  geom_line(color = "blue",
+  geom_line(color = "red",
             lineend = "round") +
   geom_point(data = cov_case_curve_endpoints,
              size = rel(1),
              shape = 21,
-             color = "blue",
-             fill = "blue"
+             color = "pink",
+             fill = "pink"
              ) +
   geom_text(data = country_panels,
              mapping = aes(label = cname),
              vjust = "inward",
              hjust = "inward",
              fontface = "bold",
-             color = "blue",
+             color = "red",
              size = rel(1.85)) +
   scale_y_log10(labels = scales::label_number_si()) +
   facet_wrap(~ reorder(cname, -cu_cases), ncol = 5) +
   labs(x = "Days Since 100th Confirmed Case",
        y = "Cumulative Number of Cases (log10 scale)",
-       title = "Cumulative Number of COVID-19 Cases for bottom 50 countries by >> 100 cases",
+       title = "Cumulative Number of COVID-19 Cases for top 30 countries by >> 100 cases",
        subtitle = paste("Data as of", format(max(cov_curve$date), "%A, %B %e, %Y")),
         caption = "@DesireYavro / Data: https://www.ecdc.europa.eu/") +
   theme(plot.title = element_text(size = rel(1), face = "bold"),
@@ -548,10 +549,10 @@ cov_case_curve_endpoints <- cov_case_curve %>%
 )
 
 
-ggsave("figures/cov_case_sm_21122020.pdf",
+ggsave("figures/cov_case_sm0_21122020.pdf",
        p_cov_case_sm, width = 8, height = 12)
 
-ggsave("figures/cov_case_sm_21122020.png",
+ggsave("figures/cov_case_sm0_21122020.png",
        p_cov_case_sm, width = 8, height = 12, dpi = 300)
 
 

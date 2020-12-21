@@ -1,0 +1,1669 @@
+date,cname,measure,count
+2019-12-31,Belgium,Cases,NA
+2019-12-31,Belgium,Deaths,NA
+2019-12-31,France,Cases,NA
+2019-12-31,France,Deaths,NA
+2019-12-31,Germany,Cases,NA
+2019-12-31,Germany,Deaths,NA
+2019-12-31,Italy,Cases,NA
+2019-12-31,Italy,Deaths,NA
+2019-12-31,Sweden,Cases,NA
+2019-12-31,Sweden,Deaths,NA
+2019-12-31,United States,Cases,NA
+2019-12-31,United States,Deaths,NA
+2020-01-01,Belgium,Cases,NA
+2020-01-01,Belgium,Deaths,NA
+2020-01-01,France,Cases,NA
+2020-01-01,France,Deaths,NA
+2020-01-01,Germany,Cases,NA
+2020-01-01,Germany,Deaths,NA
+2020-01-01,Italy,Cases,NA
+2020-01-01,Italy,Deaths,NA
+2020-01-01,Sweden,Cases,NA
+2020-01-01,Sweden,Deaths,NA
+2020-01-01,United States,Cases,NA
+2020-01-01,United States,Deaths,NA
+2020-01-02,Belgium,Cases,NA
+2020-01-02,Belgium,Deaths,NA
+2020-01-02,France,Cases,NA
+2020-01-02,France,Deaths,NA
+2020-01-02,Germany,Cases,NA
+2020-01-02,Germany,Deaths,NA
+2020-01-02,Italy,Cases,NA
+2020-01-02,Italy,Deaths,NA
+2020-01-02,Sweden,Cases,NA
+2020-01-02,Sweden,Deaths,NA
+2020-01-02,United States,Cases,NA
+2020-01-02,United States,Deaths,NA
+2020-01-03,Belgium,Cases,NA
+2020-01-03,Belgium,Deaths,NA
+2020-01-03,France,Cases,NA
+2020-01-03,France,Deaths,NA
+2020-01-03,Germany,Cases,NA
+2020-01-03,Germany,Deaths,NA
+2020-01-03,Italy,Cases,NA
+2020-01-03,Italy,Deaths,NA
+2020-01-03,Sweden,Cases,NA
+2020-01-03,Sweden,Deaths,NA
+2020-01-03,United States,Cases,NA
+2020-01-03,United States,Deaths,NA
+2020-01-04,Belgium,Cases,NA
+2020-01-04,Belgium,Deaths,NA
+2020-01-04,France,Cases,NA
+2020-01-04,France,Deaths,NA
+2020-01-04,Germany,Cases,NA
+2020-01-04,Germany,Deaths,NA
+2020-01-04,Italy,Cases,NA
+2020-01-04,Italy,Deaths,NA
+2020-01-04,Sweden,Cases,NA
+2020-01-04,Sweden,Deaths,NA
+2020-01-04,United States,Cases,NA
+2020-01-04,United States,Deaths,NA
+2020-01-05,Belgium,Cases,NA
+2020-01-05,Belgium,Deaths,NA
+2020-01-05,France,Cases,NA
+2020-01-05,France,Deaths,NA
+2020-01-05,Germany,Cases,NA
+2020-01-05,Germany,Deaths,NA
+2020-01-05,Italy,Cases,NA
+2020-01-05,Italy,Deaths,NA
+2020-01-05,Sweden,Cases,NA
+2020-01-05,Sweden,Deaths,NA
+2020-01-05,United States,Cases,NA
+2020-01-05,United States,Deaths,NA
+2020-01-06,Belgium,Cases,NA
+2020-01-06,Belgium,Deaths,NA
+2020-01-06,France,Cases,NA
+2020-01-06,France,Deaths,NA
+2020-01-06,Germany,Cases,NA
+2020-01-06,Germany,Deaths,NA
+2020-01-06,Italy,Cases,NA
+2020-01-06,Italy,Deaths,NA
+2020-01-06,Sweden,Cases,NA
+2020-01-06,Sweden,Deaths,NA
+2020-01-06,United States,Cases,NA
+2020-01-06,United States,Deaths,NA
+2020-01-07,Belgium,Cases,NA
+2020-01-07,Belgium,Deaths,NA
+2020-01-07,France,Cases,NA
+2020-01-07,France,Deaths,NA
+2020-01-07,Germany,Cases,NA
+2020-01-07,Germany,Deaths,NA
+2020-01-07,Italy,Cases,NA
+2020-01-07,Italy,Deaths,NA
+2020-01-07,Sweden,Cases,NA
+2020-01-07,Sweden,Deaths,NA
+2020-01-07,United States,Cases,NA
+2020-01-07,United States,Deaths,NA
+2020-01-08,Belgium,Cases,NA
+2020-01-08,Belgium,Deaths,NA
+2020-01-08,France,Cases,NA
+2020-01-08,France,Deaths,NA
+2020-01-08,Germany,Cases,NA
+2020-01-08,Germany,Deaths,NA
+2020-01-08,Italy,Cases,NA
+2020-01-08,Italy,Deaths,NA
+2020-01-08,Sweden,Cases,NA
+2020-01-08,Sweden,Deaths,NA
+2020-01-08,United States,Cases,NA
+2020-01-08,United States,Deaths,NA
+2020-01-09,Belgium,Cases,NA
+2020-01-09,Belgium,Deaths,NA
+2020-01-09,France,Cases,NA
+2020-01-09,France,Deaths,NA
+2020-01-09,Germany,Cases,NA
+2020-01-09,Germany,Deaths,NA
+2020-01-09,Italy,Cases,NA
+2020-01-09,Italy,Deaths,NA
+2020-01-09,Sweden,Cases,NA
+2020-01-09,Sweden,Deaths,NA
+2020-01-09,United States,Cases,NA
+2020-01-09,United States,Deaths,NA
+2020-01-10,Belgium,Cases,NA
+2020-01-10,Belgium,Deaths,NA
+2020-01-10,France,Cases,NA
+2020-01-10,France,Deaths,NA
+2020-01-10,Germany,Cases,NA
+2020-01-10,Germany,Deaths,NA
+2020-01-10,Italy,Cases,NA
+2020-01-10,Italy,Deaths,NA
+2020-01-10,Sweden,Cases,NA
+2020-01-10,Sweden,Deaths,NA
+2020-01-10,United States,Cases,NA
+2020-01-10,United States,Deaths,NA
+2020-01-11,Belgium,Cases,NA
+2020-01-11,Belgium,Deaths,NA
+2020-01-11,France,Cases,NA
+2020-01-11,France,Deaths,NA
+2020-01-11,Germany,Cases,NA
+2020-01-11,Germany,Deaths,NA
+2020-01-11,Italy,Cases,NA
+2020-01-11,Italy,Deaths,NA
+2020-01-11,Sweden,Cases,NA
+2020-01-11,Sweden,Deaths,NA
+2020-01-11,United States,Cases,NA
+2020-01-11,United States,Deaths,NA
+2020-01-12,Belgium,Cases,NA
+2020-01-12,Belgium,Deaths,NA
+2020-01-12,France,Cases,NA
+2020-01-12,France,Deaths,NA
+2020-01-12,Germany,Cases,NA
+2020-01-12,Germany,Deaths,NA
+2020-01-12,Italy,Cases,NA
+2020-01-12,Italy,Deaths,NA
+2020-01-12,Sweden,Cases,NA
+2020-01-12,Sweden,Deaths,NA
+2020-01-12,United States,Cases,NA
+2020-01-12,United States,Deaths,NA
+2020-01-13,Belgium,Cases,NA
+2020-01-13,Belgium,Deaths,NA
+2020-01-13,France,Cases,NA
+2020-01-13,France,Deaths,NA
+2020-01-13,Germany,Cases,NA
+2020-01-13,Germany,Deaths,NA
+2020-01-13,Italy,Cases,NA
+2020-01-13,Italy,Deaths,NA
+2020-01-13,Sweden,Cases,NA
+2020-01-13,Sweden,Deaths,NA
+2020-01-13,United States,Cases,NA
+2020-01-13,United States,Deaths,NA
+2020-01-14,Belgium,Cases,NA
+2020-01-14,Belgium,Deaths,NA
+2020-01-14,France,Cases,NA
+2020-01-14,France,Deaths,NA
+2020-01-14,Germany,Cases,NA
+2020-01-14,Germany,Deaths,NA
+2020-01-14,Italy,Cases,NA
+2020-01-14,Italy,Deaths,NA
+2020-01-14,Sweden,Cases,NA
+2020-01-14,Sweden,Deaths,NA
+2020-01-14,United States,Cases,NA
+2020-01-14,United States,Deaths,NA
+2020-01-15,Belgium,Cases,NA
+2020-01-15,Belgium,Deaths,NA
+2020-01-15,France,Cases,NA
+2020-01-15,France,Deaths,NA
+2020-01-15,Germany,Cases,NA
+2020-01-15,Germany,Deaths,NA
+2020-01-15,Italy,Cases,NA
+2020-01-15,Italy,Deaths,NA
+2020-01-15,Sweden,Cases,NA
+2020-01-15,Sweden,Deaths,NA
+2020-01-15,United States,Cases,NA
+2020-01-15,United States,Deaths,NA
+2020-01-16,Belgium,Cases,NA
+2020-01-16,Belgium,Deaths,NA
+2020-01-16,France,Cases,NA
+2020-01-16,France,Deaths,NA
+2020-01-16,Germany,Cases,NA
+2020-01-16,Germany,Deaths,NA
+2020-01-16,Italy,Cases,NA
+2020-01-16,Italy,Deaths,NA
+2020-01-16,Sweden,Cases,NA
+2020-01-16,Sweden,Deaths,NA
+2020-01-16,United States,Cases,NA
+2020-01-16,United States,Deaths,NA
+2020-01-17,Belgium,Cases,NA
+2020-01-17,Belgium,Deaths,NA
+2020-01-17,France,Cases,NA
+2020-01-17,France,Deaths,NA
+2020-01-17,Germany,Cases,NA
+2020-01-17,Germany,Deaths,NA
+2020-01-17,Italy,Cases,NA
+2020-01-17,Italy,Deaths,NA
+2020-01-17,Sweden,Cases,NA
+2020-01-17,Sweden,Deaths,NA
+2020-01-17,United States,Cases,NA
+2020-01-17,United States,Deaths,NA
+2020-01-18,Belgium,Cases,NA
+2020-01-18,Belgium,Deaths,NA
+2020-01-18,France,Cases,NA
+2020-01-18,France,Deaths,NA
+2020-01-18,Germany,Cases,NA
+2020-01-18,Germany,Deaths,NA
+2020-01-18,Italy,Cases,NA
+2020-01-18,Italy,Deaths,NA
+2020-01-18,Sweden,Cases,NA
+2020-01-18,Sweden,Deaths,NA
+2020-01-18,United States,Cases,NA
+2020-01-18,United States,Deaths,NA
+2020-01-19,Belgium,Cases,NA
+2020-01-19,Belgium,Deaths,NA
+2020-01-19,France,Cases,NA
+2020-01-19,France,Deaths,NA
+2020-01-19,Germany,Cases,NA
+2020-01-19,Germany,Deaths,NA
+2020-01-19,Italy,Cases,NA
+2020-01-19,Italy,Deaths,NA
+2020-01-19,Sweden,Cases,NA
+2020-01-19,Sweden,Deaths,NA
+2020-01-19,United States,Cases,NA
+2020-01-19,United States,Deaths,NA
+2020-01-20,Belgium,Cases,NA
+2020-01-20,Belgium,Deaths,NA
+2020-01-20,France,Cases,NA
+2020-01-20,France,Deaths,NA
+2020-01-20,Germany,Cases,NA
+2020-01-20,Germany,Deaths,NA
+2020-01-20,Italy,Cases,NA
+2020-01-20,Italy,Deaths,NA
+2020-01-20,Sweden,Cases,NA
+2020-01-20,Sweden,Deaths,NA
+2020-01-20,United States,Cases,NA
+2020-01-20,United States,Deaths,NA
+2020-01-21,Belgium,Cases,NA
+2020-01-21,Belgium,Deaths,NA
+2020-01-21,France,Cases,NA
+2020-01-21,France,Deaths,NA
+2020-01-21,Germany,Cases,NA
+2020-01-21,Germany,Deaths,NA
+2020-01-21,Italy,Cases,NA
+2020-01-21,Italy,Deaths,NA
+2020-01-21,Sweden,Cases,NA
+2020-01-21,Sweden,Deaths,NA
+2020-01-21,United States,Cases,1
+2020-01-21,United States,Deaths,NA
+2020-01-22,Belgium,Cases,NA
+2020-01-22,Belgium,Deaths,NA
+2020-01-22,France,Cases,NA
+2020-01-22,France,Deaths,NA
+2020-01-22,Germany,Cases,NA
+2020-01-22,Germany,Deaths,NA
+2020-01-22,Italy,Cases,NA
+2020-01-22,Italy,Deaths,NA
+2020-01-22,Sweden,Cases,NA
+2020-01-22,Sweden,Deaths,NA
+2020-01-22,United States,Cases,1
+2020-01-22,United States,Deaths,NA
+2020-01-23,Belgium,Cases,NA
+2020-01-23,Belgium,Deaths,NA
+2020-01-23,France,Cases,NA
+2020-01-23,France,Deaths,NA
+2020-01-23,Germany,Cases,NA
+2020-01-23,Germany,Deaths,NA
+2020-01-23,Italy,Cases,NA
+2020-01-23,Italy,Deaths,NA
+2020-01-23,Sweden,Cases,NA
+2020-01-23,Sweden,Deaths,NA
+2020-01-23,United States,Cases,1
+2020-01-23,United States,Deaths,NA
+2020-01-24,Belgium,Cases,NA
+2020-01-24,Belgium,Deaths,NA
+2020-01-24,France,Cases,NA
+2020-01-24,France,Deaths,NA
+2020-01-24,Germany,Cases,NA
+2020-01-24,Germany,Deaths,NA
+2020-01-24,Italy,Cases,NA
+2020-01-24,Italy,Deaths,NA
+2020-01-24,Sweden,Cases,NA
+2020-01-24,Sweden,Deaths,NA
+2020-01-24,United States,Cases,1
+2020-01-24,United States,Deaths,NA
+2020-01-25,Belgium,Cases,NA
+2020-01-25,Belgium,Deaths,NA
+2020-01-25,France,Cases,3
+2020-01-25,France,Deaths,NA
+2020-01-25,Germany,Cases,NA
+2020-01-25,Germany,Deaths,NA
+2020-01-25,Italy,Cases,NA
+2020-01-25,Italy,Deaths,NA
+2020-01-25,Sweden,Cases,NA
+2020-01-25,Sweden,Deaths,NA
+2020-01-25,United States,Cases,2
+2020-01-25,United States,Deaths,NA
+2020-01-26,Belgium,Cases,NA
+2020-01-26,Belgium,Deaths,NA
+2020-01-26,France,Cases,3
+2020-01-26,France,Deaths,NA
+2020-01-26,Germany,Cases,NA
+2020-01-26,Germany,Deaths,NA
+2020-01-26,Italy,Cases,NA
+2020-01-26,Italy,Deaths,NA
+2020-01-26,Sweden,Cases,NA
+2020-01-26,Sweden,Deaths,NA
+2020-01-26,United States,Cases,2
+2020-01-26,United States,Deaths,NA
+2020-01-27,Belgium,Cases,NA
+2020-01-27,Belgium,Deaths,NA
+2020-01-27,France,Cases,3
+2020-01-27,France,Deaths,NA
+2020-01-27,Germany,Cases,NA
+2020-01-27,Germany,Deaths,NA
+2020-01-27,Italy,Cases,NA
+2020-01-27,Italy,Deaths,NA
+2020-01-27,Sweden,Cases,NA
+2020-01-27,Sweden,Deaths,NA
+2020-01-27,United States,Cases,5
+2020-01-27,United States,Deaths,NA
+2020-01-28,Belgium,Cases,NA
+2020-01-28,Belgium,Deaths,NA
+2020-01-28,France,Cases,3
+2020-01-28,France,Deaths,NA
+2020-01-28,Germany,Cases,1
+2020-01-28,Germany,Deaths,NA
+2020-01-28,Italy,Cases,NA
+2020-01-28,Italy,Deaths,NA
+2020-01-28,Sweden,Cases,NA
+2020-01-28,Sweden,Deaths,NA
+2020-01-28,United States,Cases,5
+2020-01-28,United States,Deaths,NA
+2020-01-29,Belgium,Cases,NA
+2020-01-29,Belgium,Deaths,NA
+2020-01-29,France,Cases,4
+2020-01-29,France,Deaths,NA
+2020-01-29,Germany,Cases,4
+2020-01-29,Germany,Deaths,NA
+2020-01-29,Italy,Cases,NA
+2020-01-29,Italy,Deaths,NA
+2020-01-29,Sweden,Cases,NA
+2020-01-29,Sweden,Deaths,NA
+2020-01-29,United States,Cases,5
+2020-01-29,United States,Deaths,NA
+2020-01-30,Belgium,Cases,NA
+2020-01-30,Belgium,Deaths,NA
+2020-01-30,France,Cases,5
+2020-01-30,France,Deaths,NA
+2020-01-30,Germany,Cases,4
+2020-01-30,Germany,Deaths,NA
+2020-01-30,Italy,Cases,NA
+2020-01-30,Italy,Deaths,NA
+2020-01-30,Sweden,Cases,NA
+2020-01-30,Sweden,Deaths,NA
+2020-01-30,United States,Cases,5
+2020-01-30,United States,Deaths,NA
+2020-01-31,Belgium,Cases,NA
+2020-01-31,Belgium,Deaths,NA
+2020-01-31,France,Cases,6
+2020-01-31,France,Deaths,NA
+2020-01-31,Germany,Cases,5
+2020-01-31,Germany,Deaths,NA
+2020-01-31,Italy,Cases,3
+2020-01-31,Italy,Deaths,NA
+2020-01-31,Sweden,Cases,NA
+2020-01-31,Sweden,Deaths,NA
+2020-01-31,United States,Cases,6
+2020-01-31,United States,Deaths,NA
+2020-02-01,Belgium,Cases,NA
+2020-02-01,Belgium,Deaths,NA
+2020-02-01,France,Cases,6
+2020-02-01,France,Deaths,NA
+2020-02-01,Germany,Cases,7
+2020-02-01,Germany,Deaths,NA
+2020-02-01,Italy,Cases,3
+2020-02-01,Italy,Deaths,NA
+2020-02-01,Sweden,Cases,1
+2020-02-01,Sweden,Deaths,NA
+2020-02-01,United States,Cases,7
+2020-02-01,United States,Deaths,NA
+2020-02-02,Belgium,Cases,NA
+2020-02-02,Belgium,Deaths,NA
+2020-02-02,France,Cases,6
+2020-02-02,France,Deaths,NA
+2020-02-02,Germany,Cases,8
+2020-02-02,Germany,Deaths,NA
+2020-02-02,Italy,Cases,3
+2020-02-02,Italy,Deaths,NA
+2020-02-02,Sweden,Cases,1
+2020-02-02,Sweden,Deaths,NA
+2020-02-02,United States,Cases,8
+2020-02-02,United States,Deaths,NA
+2020-02-03,Belgium,Cases,NA
+2020-02-03,Belgium,Deaths,NA
+2020-02-03,France,Cases,6
+2020-02-03,France,Deaths,NA
+2020-02-03,Germany,Cases,9
+2020-02-03,Germany,Deaths,NA
+2020-02-03,Italy,Cases,3
+2020-02-03,Italy,Deaths,NA
+2020-02-03,Sweden,Cases,1
+2020-02-03,Sweden,Deaths,NA
+2020-02-03,United States,Cases,11
+2020-02-03,United States,Deaths,NA
+2020-02-04,Belgium,Cases,1
+2020-02-04,Belgium,Deaths,NA
+2020-02-04,France,Cases,6
+2020-02-04,France,Deaths,NA
+2020-02-04,Germany,Cases,11
+2020-02-04,Germany,Deaths,NA
+2020-02-04,Italy,Cases,3
+2020-02-04,Italy,Deaths,NA
+2020-02-04,Sweden,Cases,1
+2020-02-04,Sweden,Deaths,NA
+2020-02-04,United States,Cases,11
+2020-02-04,United States,Deaths,NA
+2020-02-05,Belgium,Cases,1
+2020-02-05,Belgium,Deaths,NA
+2020-02-05,France,Cases,6
+2020-02-05,France,Deaths,NA
+2020-02-05,Germany,Cases,11
+2020-02-05,Germany,Deaths,NA
+2020-02-05,Italy,Cases,3
+2020-02-05,Italy,Deaths,NA
+2020-02-05,Sweden,Cases,1
+2020-02-05,Sweden,Deaths,NA
+2020-02-05,United States,Cases,11
+2020-02-05,United States,Deaths,NA
+2020-02-06,Belgium,Cases,1
+2020-02-06,Belgium,Deaths,NA
+2020-02-06,France,Cases,6
+2020-02-06,France,Deaths,NA
+2020-02-06,Germany,Cases,11
+2020-02-06,Germany,Deaths,NA
+2020-02-06,Italy,Cases,3
+2020-02-06,Italy,Deaths,NA
+2020-02-06,Sweden,Cases,1
+2020-02-06,Sweden,Deaths,NA
+2020-02-06,United States,Cases,12
+2020-02-06,United States,Deaths,NA
+2020-02-07,Belgium,Cases,1
+2020-02-07,Belgium,Deaths,NA
+2020-02-07,France,Cases,6
+2020-02-07,France,Deaths,NA
+2020-02-07,Germany,Cases,12
+2020-02-07,Germany,Deaths,NA
+2020-02-07,Italy,Cases,3
+2020-02-07,Italy,Deaths,NA
+2020-02-07,Sweden,Cases,1
+2020-02-07,Sweden,Deaths,NA
+2020-02-07,United States,Cases,12
+2020-02-07,United States,Deaths,NA
+2020-02-08,Belgium,Cases,1
+2020-02-08,Belgium,Deaths,NA
+2020-02-08,France,Cases,11
+2020-02-08,France,Deaths,NA
+2020-02-08,Germany,Cases,13
+2020-02-08,Germany,Deaths,NA
+2020-02-08,Italy,Cases,3
+2020-02-08,Italy,Deaths,NA
+2020-02-08,Sweden,Cases,1
+2020-02-08,Sweden,Deaths,NA
+2020-02-08,United States,Cases,12
+2020-02-08,United States,Deaths,NA
+2020-02-09,Belgium,Cases,1
+2020-02-09,Belgium,Deaths,NA
+2020-02-09,France,Cases,11
+2020-02-09,France,Deaths,NA
+2020-02-09,Germany,Cases,13
+2020-02-09,Germany,Deaths,NA
+2020-02-09,Italy,Cases,3
+2020-02-09,Italy,Deaths,NA
+2020-02-09,Sweden,Cases,1
+2020-02-09,Sweden,Deaths,NA
+2020-02-09,United States,Cases,12
+2020-02-09,United States,Deaths,NA
+2020-02-10,Belgium,Cases,1
+2020-02-10,Belgium,Deaths,NA
+2020-02-10,France,Cases,11
+2020-02-10,France,Deaths,NA
+2020-02-10,Germany,Cases,13
+2020-02-10,Germany,Deaths,NA
+2020-02-10,Italy,Cases,3
+2020-02-10,Italy,Deaths,NA
+2020-02-10,Sweden,Cases,1
+2020-02-10,Sweden,Deaths,NA
+2020-02-10,United States,Cases,12
+2020-02-10,United States,Deaths,NA
+2020-02-11,Belgium,Cases,1
+2020-02-11,Belgium,Deaths,NA
+2020-02-11,France,Cases,11
+2020-02-11,France,Deaths,NA
+2020-02-11,Germany,Cases,13
+2020-02-11,Germany,Deaths,NA
+2020-02-11,Italy,Cases,3
+2020-02-11,Italy,Deaths,NA
+2020-02-11,Sweden,Cases,1
+2020-02-11,Sweden,Deaths,NA
+2020-02-11,United States,Cases,13
+2020-02-11,United States,Deaths,NA
+2020-02-12,Belgium,Cases,1
+2020-02-12,Belgium,Deaths,NA
+2020-02-12,France,Cases,11
+2020-02-12,France,Deaths,NA
+2020-02-12,Germany,Cases,15
+2020-02-12,Germany,Deaths,NA
+2020-02-12,Italy,Cases,3
+2020-02-12,Italy,Deaths,NA
+2020-02-12,Sweden,Cases,1
+2020-02-12,Sweden,Deaths,NA
+2020-02-12,United States,Cases,13
+2020-02-12,United States,Deaths,NA
+2020-02-13,Belgium,Cases,1
+2020-02-13,Belgium,Deaths,NA
+2020-02-13,France,Cases,11
+2020-02-13,France,Deaths,NA
+2020-02-13,Germany,Cases,15
+2020-02-13,Germany,Deaths,NA
+2020-02-13,Italy,Cases,3
+2020-02-13,Italy,Deaths,NA
+2020-02-13,Sweden,Cases,1
+2020-02-13,Sweden,Deaths,NA
+2020-02-13,United States,Cases,14
+2020-02-13,United States,Deaths,NA
+2020-02-14,Belgium,Cases,1
+2020-02-14,Belgium,Deaths,NA
+2020-02-14,France,Cases,11
+2020-02-14,France,Deaths,NA
+2020-02-14,Germany,Cases,15
+2020-02-14,Germany,Deaths,NA
+2020-02-14,Italy,Cases,3
+2020-02-14,Italy,Deaths,NA
+2020-02-14,Sweden,Cases,1
+2020-02-14,Sweden,Deaths,NA
+2020-02-14,United States,Cases,15
+2020-02-14,United States,Deaths,NA
+2020-02-15,Belgium,Cases,1
+2020-02-15,Belgium,Deaths,NA
+2020-02-15,France,Cases,11
+2020-02-15,France,Deaths,1
+2020-02-15,Germany,Cases,15
+2020-02-15,Germany,Deaths,NA
+2020-02-15,Italy,Cases,3
+2020-02-15,Italy,Deaths,NA
+2020-02-15,Sweden,Cases,1
+2020-02-15,Sweden,Deaths,NA
+2020-02-15,United States,Cases,15
+2020-02-15,United States,Deaths,NA
+2020-02-16,Belgium,Cases,1
+2020-02-16,Belgium,Deaths,NA
+2020-02-16,France,Cases,11
+2020-02-16,France,Deaths,1
+2020-02-16,Germany,Cases,15
+2020-02-16,Germany,Deaths,NA
+2020-02-16,Italy,Cases,3
+2020-02-16,Italy,Deaths,NA
+2020-02-16,Sweden,Cases,1
+2020-02-16,Sweden,Deaths,NA
+2020-02-16,United States,Cases,15
+2020-02-16,United States,Deaths,NA
+2020-02-17,Belgium,Cases,1
+2020-02-17,Belgium,Deaths,NA
+2020-02-17,France,Cases,12
+2020-02-17,France,Deaths,1
+2020-02-17,Germany,Cases,15
+2020-02-17,Germany,Deaths,NA
+2020-02-17,Italy,Cases,3
+2020-02-17,Italy,Deaths,NA
+2020-02-17,Sweden,Cases,1
+2020-02-17,Sweden,Deaths,NA
+2020-02-17,United States,Cases,15
+2020-02-17,United States,Deaths,NA
+2020-02-18,Belgium,Cases,1
+2020-02-18,Belgium,Deaths,NA
+2020-02-18,France,Cases,12
+2020-02-18,France,Deaths,1
+2020-02-18,Germany,Cases,15
+2020-02-18,Germany,Deaths,NA
+2020-02-18,Italy,Cases,3
+2020-02-18,Italy,Deaths,NA
+2020-02-18,Sweden,Cases,1
+2020-02-18,Sweden,Deaths,NA
+2020-02-18,United States,Cases,15
+2020-02-18,United States,Deaths,NA
+2020-02-19,Belgium,Cases,1
+2020-02-19,Belgium,Deaths,NA
+2020-02-19,France,Cases,12
+2020-02-19,France,Deaths,1
+2020-02-19,Germany,Cases,15
+2020-02-19,Germany,Deaths,NA
+2020-02-19,Italy,Cases,3
+2020-02-19,Italy,Deaths,NA
+2020-02-19,Sweden,Cases,1
+2020-02-19,Sweden,Deaths,NA
+2020-02-19,United States,Cases,15
+2020-02-19,United States,Deaths,NA
+2020-02-20,Belgium,Cases,1
+2020-02-20,Belgium,Deaths,NA
+2020-02-20,France,Cases,12
+2020-02-20,France,Deaths,1
+2020-02-20,Germany,Cases,15
+2020-02-20,Germany,Deaths,NA
+2020-02-20,Italy,Cases,3
+2020-02-20,Italy,Deaths,NA
+2020-02-20,Sweden,Cases,1
+2020-02-20,Sweden,Deaths,NA
+2020-02-20,United States,Cases,15
+2020-02-20,United States,Deaths,NA
+2020-02-21,Belgium,Cases,1
+2020-02-21,Belgium,Deaths,NA
+2020-02-21,France,Cases,12
+2020-02-21,France,Deaths,1
+2020-02-21,Germany,Cases,15
+2020-02-21,Germany,Deaths,NA
+2020-02-21,Italy,Cases,3
+2020-02-21,Italy,Deaths,NA
+2020-02-21,Sweden,Cases,1
+2020-02-21,Sweden,Deaths,NA
+2020-02-21,United States,Cases,16
+2020-02-21,United States,Deaths,NA
+2020-02-22,Belgium,Cases,1
+2020-02-22,Belgium,Deaths,NA
+2020-02-22,France,Cases,12
+2020-02-22,France,Deaths,1
+2020-02-22,Germany,Cases,15
+2020-02-22,Germany,Deaths,NA
+2020-02-22,Italy,Cases,17
+2020-02-22,Italy,Deaths,NA
+2020-02-22,Sweden,Cases,1
+2020-02-22,Sweden,Deaths,NA
+2020-02-22,United States,Cases,35
+2020-02-22,United States,Deaths,NA
+2020-02-23,Belgium,Cases,1
+2020-02-23,Belgium,Deaths,NA
+2020-02-23,France,Cases,12
+2020-02-23,France,Deaths,1
+2020-02-23,Germany,Cases,15
+2020-02-23,Germany,Deaths,NA
+2020-02-23,Italy,Cases,79
+2020-02-23,Italy,Deaths,2
+2020-02-23,Sweden,Cases,1
+2020-02-23,Sweden,Deaths,NA
+2020-02-23,United States,Cases,35
+2020-02-23,United States,Deaths,NA
+2020-02-24,Belgium,Cases,1
+2020-02-24,Belgium,Deaths,NA
+2020-02-24,France,Cases,12
+2020-02-24,France,Deaths,1
+2020-02-24,Germany,Cases,15
+2020-02-24,Germany,Deaths,NA
+2020-02-24,Italy,Cases,132
+2020-02-24,Italy,Deaths,2
+2020-02-24,Sweden,Cases,1
+2020-02-24,Sweden,Deaths,NA
+2020-02-24,United States,Cases,35
+2020-02-24,United States,Deaths,NA
+2020-02-25,Belgium,Cases,1
+2020-02-25,Belgium,Deaths,NA
+2020-02-25,France,Cases,12
+2020-02-25,France,Deaths,1
+2020-02-25,Germany,Cases,15
+2020-02-25,Germany,Deaths,NA
+2020-02-25,Italy,Cases,229
+2020-02-25,Italy,Deaths,6
+2020-02-25,Sweden,Cases,1
+2020-02-25,Sweden,Deaths,NA
+2020-02-25,United States,Cases,53
+2020-02-25,United States,Deaths,NA
+2020-02-26,Belgium,Cases,1
+2020-02-26,Belgium,Deaths,NA
+2020-02-26,France,Cases,14
+2020-02-26,France,Deaths,1
+2020-02-26,Germany,Cases,17
+2020-02-26,Germany,Deaths,NA
+2020-02-26,Italy,Cases,322
+2020-02-26,Italy,Deaths,11
+2020-02-26,Sweden,Cases,1
+2020-02-26,Sweden,Deaths,NA
+2020-02-26,United States,Cases,53
+2020-02-26,United States,Deaths,NA
+2020-02-27,Belgium,Cases,1
+2020-02-27,Belgium,Deaths,NA
+2020-02-27,France,Cases,17
+2020-02-27,France,Deaths,2
+2020-02-27,Germany,Cases,21
+2020-02-27,Germany,Deaths,NA
+2020-02-27,Italy,Cases,400
+2020-02-27,Italy,Deaths,12
+2020-02-27,Sweden,Cases,2
+2020-02-27,Sweden,Deaths,NA
+2020-02-27,United States,Cases,59
+2020-02-27,United States,Deaths,NA
+2020-02-28,Belgium,Cases,1
+2020-02-28,Belgium,Deaths,NA
+2020-02-28,France,Cases,38
+2020-02-28,France,Deaths,2
+2020-02-28,Germany,Cases,47
+2020-02-28,Germany,Deaths,NA
+2020-02-28,Italy,Cases,650
+2020-02-28,Italy,Deaths,17
+2020-02-28,Sweden,Cases,7
+2020-02-28,Sweden,Deaths,NA
+2020-02-28,United States,Cases,60
+2020-02-28,United States,Deaths,NA
+2020-02-29,Belgium,Cases,1
+2020-02-29,Belgium,Deaths,NA
+2020-02-29,France,Cases,57
+2020-02-29,France,Deaths,2
+2020-02-29,Germany,Cases,57
+2020-02-29,Germany,Deaths,NA
+2020-02-29,Italy,Cases,888
+2020-02-29,Italy,Deaths,21
+2020-02-29,Sweden,Cases,12
+2020-02-29,Sweden,Deaths,NA
+2020-02-29,United States,Cases,66
+2020-02-29,United States,Deaths,NA
+2020-03-01,Belgium,Cases,1
+2020-03-01,Belgium,Deaths,NA
+2020-03-01,France,Cases,100
+2020-03-01,France,Deaths,2
+2020-03-01,Germany,Cases,111
+2020-03-01,Germany,Deaths,NA
+2020-03-01,Italy,Cases,1128
+2020-03-01,Italy,Deaths,29
+2020-03-01,Sweden,Cases,13
+2020-03-01,Sweden,Deaths,NA
+2020-03-01,United States,Cases,69
+2020-03-01,United States,Deaths,1
+2020-03-02,Belgium,Cases,2
+2020-03-02,Belgium,Deaths,NA
+2020-03-02,France,Cases,130
+2020-03-02,France,Deaths,2
+2020-03-02,Germany,Cases,129
+2020-03-02,Germany,Deaths,NA
+2020-03-02,Italy,Cases,1689
+2020-03-02,Italy,Deaths,35
+2020-03-02,Sweden,Cases,14
+2020-03-02,Sweden,Deaths,NA
+2020-03-02,United States,Cases,89
+2020-03-02,United States,Deaths,2
+2020-03-03,Belgium,Cases,8
+2020-03-03,Belgium,Deaths,NA
+2020-03-03,France,Cases,178
+2020-03-03,France,Deaths,3
+2020-03-03,Germany,Cases,157
+2020-03-03,Germany,Deaths,NA
+2020-03-03,Italy,Cases,2036
+2020-03-03,Italy,Deaths,52
+2020-03-03,Sweden,Cases,15
+2020-03-03,Sweden,Deaths,NA
+2020-03-03,United States,Cases,103
+2020-03-03,United States,Deaths,6
+2020-03-04,Belgium,Cases,13
+2020-03-04,Belgium,Deaths,NA
+2020-03-04,France,Cases,212
+2020-03-04,France,Deaths,4
+2020-03-04,Germany,Cases,196
+2020-03-04,Germany,Deaths,NA
+2020-03-04,Italy,Cases,2502
+2020-03-04,Italy,Deaths,80
+2020-03-04,Sweden,Cases,24
+2020-03-04,Sweden,Deaths,NA
+2020-03-04,United States,Cases,125
+2020-03-04,United States,Deaths,9
+2020-03-05,Belgium,Cases,23
+2020-03-05,Belgium,Deaths,NA
+2020-03-05,France,Cases,285
+2020-03-05,France,Deaths,4
+2020-03-05,Germany,Cases,262
+2020-03-05,Germany,Deaths,NA
+2020-03-05,Italy,Cases,3089
+2020-03-05,Italy,Deaths,107
+2020-03-05,Sweden,Cases,35
+2020-03-05,Sweden,Deaths,NA
+2020-03-05,United States,Cases,159
+2020-03-05,United States,Deaths,11
+2020-03-06,Belgium,Cases,50
+2020-03-06,Belgium,Deaths,NA
+2020-03-06,France,Cases,423
+2020-03-06,France,Deaths,7
+2020-03-06,Germany,Cases,400
+2020-03-06,Germany,Deaths,NA
+2020-03-06,Italy,Cases,3858
+2020-03-06,Italy,Deaths,148
+2020-03-06,Sweden,Cases,61
+2020-03-06,Sweden,Deaths,NA
+2020-03-06,United States,Cases,233
+2020-03-06,United States,Deaths,12
+2020-03-07,Belgium,Cases,109
+2020-03-07,Belgium,Deaths,NA
+2020-03-07,France,Cases,613
+2020-03-07,France,Deaths,9
+2020-03-07,Germany,Cases,684
+2020-03-07,Germany,Deaths,NA
+2020-03-07,Italy,Cases,4636
+2020-03-07,Italy,Deaths,197
+2020-03-07,Sweden,Cases,137
+2020-03-07,Sweden,Deaths,NA
+2020-03-07,United States,Cases,338
+2020-03-07,United States,Deaths,14
+2020-03-08,Belgium,Cases,169
+2020-03-08,Belgium,Deaths,NA
+2020-03-08,France,Cases,716
+2020-03-08,France,Deaths,10
+2020-03-08,Germany,Cases,847
+2020-03-08,Germany,Deaths,NA
+2020-03-08,Italy,Cases,5883
+2020-03-08,Italy,Deaths,233
+2020-03-08,Sweden,Cases,161
+2020-03-08,Sweden,Deaths,NA
+2020-03-08,United States,Cases,433
+2020-03-08,United States,Deaths,17
+2020-03-09,Belgium,Cases,200
+2020-03-09,Belgium,Deaths,NA
+2020-03-09,France,Cases,1126
+2020-03-09,France,Deaths,19
+2020-03-09,Germany,Cases,902
+2020-03-09,Germany,Deaths,NA
+2020-03-09,Italy,Cases,7375
+2020-03-09,Italy,Deaths,366
+2020-03-09,Sweden,Cases,203
+2020-03-09,Sweden,Deaths,NA
+2020-03-09,United States,Cases,554
+2020-03-09,United States,Deaths,21
+2020-03-10,Belgium,Cases,239
+2020-03-10,Belgium,Deaths,NA
+2020-03-10,France,Cases,1412
+2020-03-10,France,Deaths,30
+2020-03-10,Germany,Cases,1139
+2020-03-10,Germany,Deaths,2
+2020-03-10,Italy,Cases,9172
+2020-03-10,Italy,Deaths,464
+2020-03-10,Sweden,Cases,248
+2020-03-10,Sweden,Deaths,NA
+2020-03-10,United States,Cases,754
+2020-03-10,United States,Deaths,26
+2020-03-11,Belgium,Cases,267
+2020-03-11,Belgium,Deaths,NA
+2020-03-11,France,Cases,1784
+2020-03-11,France,Deaths,33
+2020-03-11,Germany,Cases,1296
+2020-03-11,Germany,Deaths,2
+2020-03-11,Italy,Cases,10149
+2020-03-11,Italy,Deaths,631
+2020-03-11,Sweden,Cases,326
+2020-03-11,Sweden,Deaths,NA
+2020-03-11,United States,Cases,1025
+2020-03-11,United States,Deaths,28
+2020-03-12,Belgium,Cases,314
+2020-03-12,Belgium,Deaths,3
+2020-03-12,France,Cases,2281
+2020-03-12,France,Deaths,48
+2020-03-12,Germany,Cases,1567
+2020-03-12,Germany,Deaths,3
+2020-03-12,Italy,Cases,12462
+2020-03-12,Italy,Deaths,827
+2020-03-12,Sweden,Cases,462
+2020-03-12,Sweden,Deaths,1
+2020-03-12,United States,Cases,1312
+2020-03-12,United States,Deaths,30
+2020-03-13,Belgium,Cases,399
+2020-03-13,Belgium,Deaths,3
+2020-03-13,France,Cases,2876
+2020-03-13,France,Deaths,61
+2020-03-13,Germany,Cases,2369
+2020-03-13,Germany,Deaths,5
+2020-03-13,Italy,Cases,15113
+2020-03-13,Italy,Deaths,1016
+2020-03-13,Sweden,Cases,620
+2020-03-13,Sweden,Deaths,1
+2020-03-13,United States,Cases,1663
+2020-03-13,United States,Deaths,40
+2020-03-14,Belgium,Cases,559
+2020-03-14,Belgium,Deaths,3
+2020-03-14,France,Cases,3661
+2020-03-14,France,Deaths,79
+2020-03-14,Germany,Cases,3062
+2020-03-14,Germany,Deaths,5
+2020-03-14,Italy,Cases,17660
+2020-03-14,Italy,Deaths,1268
+2020-03-14,Sweden,Cases,775
+2020-03-14,Sweden,Deaths,1
+2020-03-14,United States,Cases,2174
+2020-03-14,United States,Deaths,47
+2020-03-15,Belgium,Cases,689
+2020-03-15,Belgium,Deaths,4
+2020-03-15,France,Cases,4499
+2020-03-15,France,Deaths,91
+2020-03-15,Germany,Cases,3795
+2020-03-15,Germany,Deaths,8
+2020-03-15,Italy,Cases,21157
+2020-03-15,Italy,Deaths,1441
+2020-03-15,Sweden,Cases,924
+2020-03-15,Sweden,Deaths,1
+2020-03-15,United States,Cases,2951
+2020-03-15,United States,Deaths,57
+2020-03-16,Belgium,Cases,886
+2020-03-16,Belgium,Deaths,4
+2020-03-16,France,Cases,5423
+2020-03-16,France,Deaths,127
+2020-03-16,Germany,Cases,4838
+2020-03-16,Germany,Deaths,12
+2020-03-16,Italy,Cases,23980
+2020-03-16,Italy,Deaths,1811
+2020-03-16,Sweden,Cases,1032
+2020-03-16,Sweden,Deaths,3
+2020-03-16,United States,Cases,3774
+2020-03-16,United States,Deaths,69
+2020-03-17,Belgium,Cases,1085
+2020-03-17,Belgium,Deaths,5
+2020-03-17,France,Cases,6633
+2020-03-17,France,Deaths,148
+2020-03-17,Germany,Cases,6012
+2020-03-17,Germany,Deaths,13
+2020-03-17,Italy,Cases,27980
+2020-03-17,Italy,Deaths,2158
+2020-03-17,Sweden,Cases,1121
+2020-03-17,Sweden,Deaths,7
+2020-03-17,United States,Cases,4661
+2020-03-17,United States,Deaths,85
+2020-03-18,Belgium,Cases,1243
+2020-03-18,Belgium,Deaths,5
+2020-03-18,France,Cases,7730
+2020-03-18,France,Deaths,175
+2020-03-18,Germany,Cases,7156
+2020-03-18,Germany,Deaths,13
+2020-03-18,Italy,Cases,31506
+2020-03-18,Italy,Deaths,2505
+2020-03-18,Sweden,Cases,1167
+2020-03-18,Sweden,Deaths,8
+2020-03-18,United States,Cases,6427
+2020-03-18,United States,Deaths,108
+2020-03-19,Belgium,Cases,1486
+2020-03-19,Belgium,Deaths,14
+2020-03-19,France,Cases,9134
+2020-03-19,France,Deaths,244
+2020-03-19,Germany,Cases,8198
+2020-03-19,Germany,Deaths,13
+2020-03-19,Italy,Cases,35713
+2020-03-19,Italy,Deaths,2978
+2020-03-19,Sweden,Cases,1301
+2020-03-19,Sweden,Deaths,10
+2020-03-19,United States,Cases,9415
+2020-03-19,United States,Deaths,150
+2020-03-20,Belgium,Cases,1795
+2020-03-20,Belgium,Deaths,21
+2020-03-20,France,Cases,10995
+2020-03-20,France,Deaths,372
+2020-03-20,Germany,Cases,14138
+2020-03-20,Germany,Deaths,43
+2020-03-20,Italy,Cases,41035
+2020-03-20,Italy,Deaths,3407
+2020-03-20,Sweden,Cases,1423
+2020-03-20,Sweden,Deaths,10
+2020-03-20,United States,Cases,14250
+2020-03-20,United States,Deaths,150
+2020-03-21,Belgium,Cases,2257
+2020-03-21,Belgium,Deaths,37
+2020-03-21,France,Cases,12612
+2020-03-21,France,Deaths,450
+2020-03-21,Germany,Cases,18187
+2020-03-21,Germany,Deaths,45
+2020-03-21,Italy,Cases,47021
+2020-03-21,Italy,Deaths,4032
+2020-03-21,Sweden,Cases,1623
+2020-03-21,Sweden,Deaths,16
+2020-03-21,United States,Cases,19624
+2020-03-21,United States,Deaths,260
+2020-03-22,Belgium,Cases,2815
+2020-03-22,Belgium,Deaths,67
+2020-03-22,France,Cases,14459
+2020-03-22,France,Deaths,562
+2020-03-22,Germany,Cases,21463
+2020-03-22,Germany,Deaths,67
+2020-03-22,Italy,Cases,53578
+2020-03-22,Italy,Deaths,4827
+2020-03-22,Sweden,Cases,1746
+2020-03-22,Sweden,Deaths,20
+2020-03-22,United States,Cases,26747
+2020-03-22,United States,Deaths,340
+2020-03-23,Belgium,Cases,3401
+2020-03-23,Belgium,Deaths,75
+2020-03-23,France,Cases,16018
+2020-03-23,France,Deaths,674
+2020-03-23,Germany,Cases,24774
+2020-03-23,Germany,Deaths,94
+2020-03-23,Italy,Cases,59138
+2020-03-23,Italy,Deaths,5476
+2020-03-23,Sweden,Cases,1906
+2020-03-23,Sweden,Deaths,21
+2020-03-23,United States,Cases,35206
+2020-03-23,United States,Deaths,471
+2020-03-24,Belgium,Cases,3743
+2020-03-24,Belgium,Deaths,88
+2020-03-24,France,Cases,19856
+2020-03-24,France,Deaths,860
+2020-03-24,Germany,Cases,29212
+2020-03-24,Germany,Deaths,126
+2020-03-24,Italy,Cases,63927
+2020-03-24,Italy,Deaths,6077
+2020-03-24,Sweden,Cases,2016
+2020-03-24,Sweden,Deaths,25
+2020-03-24,United States,Cases,46442
+2020-03-24,United States,Deaths,590
+2020-03-25,Belgium,Cases,4269
+2020-03-25,Belgium,Deaths,122
+2020-03-25,France,Cases,22302
+2020-03-25,France,Deaths,1100
+2020-03-25,Germany,Cases,31554
+2020-03-25,Germany,Deaths,149
+2020-03-25,Italy,Cases,69176
+2020-03-25,Italy,Deaths,6820
+2020-03-25,Sweden,Cases,2272
+2020-03-25,Sweden,Deaths,36
+2020-03-25,United States,Cases,55231
+2020-03-25,United States,Deaths,801
+2020-03-26,Belgium,Cases,4937
+2020-03-26,Belgium,Deaths,178
+2020-03-26,France,Cases,25233
+2020-03-26,France,Deaths,1331
+2020-03-26,Germany,Cases,36508
+2020-03-26,Germany,Deaths,198
+2020-03-26,Italy,Cases,74386
+2020-03-26,Italy,Deaths,7505
+2020-03-26,Sweden,Cases,2510
+2020-03-26,Sweden,Deaths,42
+2020-03-26,United States,Cases,69194
+2020-03-26,United States,Deaths,1050
+2020-03-27,Belgium,Cases,6235
+2020-03-27,Belgium,Deaths,220
+2020-03-27,France,Cases,29155
+2020-03-27,France,Deaths,1696
+2020-03-27,Germany,Cases,42288
+2020-03-27,Germany,Deaths,253
+2020-03-27,Italy,Cases,80539
+2020-03-27,Italy,Deaths,8165
+2020-03-27,Sweden,Cases,2806
+2020-03-27,Sweden,Deaths,66
+2020-03-27,United States,Cases,85991
+2020-03-27,United States,Deaths,1296
+2020-03-28,Belgium,Cases,7284
+2020-03-28,Belgium,Deaths,289
+2020-03-28,France,Cases,32964
+2020-03-28,France,Deaths,1995
+2020-03-28,Germany,Cases,48582
+2020-03-28,Germany,Deaths,325
+2020-03-28,Italy,Cases,86498
+2020-03-28,Italy,Deaths,9136
+2020-03-28,Sweden,Cases,3046
+2020-03-28,Sweden,Deaths,92
+2020-03-28,United States,Cases,104686
+2020-03-28,United States,Deaths,1707
+2020-03-29,Belgium,Cases,9134
+2020-03-29,Belgium,Deaths,353
+2020-03-29,France,Cases,37575
+2020-03-29,France,Deaths,2314
+2020-03-29,Germany,Cases,52547
+2020-03-29,Germany,Deaths,389
+2020-03-29,Italy,Cases,92472
+2020-03-29,Italy,Deaths,10023
+2020-03-29,Sweden,Cases,3447
+2020-03-29,Sweden,Deaths,102
+2020-03-29,United States,Cases,124665
+2020-03-29,United States,Deaths,2191
+2020-03-30,Belgium,Cases,10836
+2020-03-30,Belgium,Deaths,431
+2020-03-30,France,Cases,40174
+2020-03-30,France,Deaths,2606
+2020-03-30,Germany,Cases,57298
+2020-03-30,Germany,Deaths,455
+2020-03-30,Italy,Cases,97689
+2020-03-30,Italy,Deaths,10781
+2020-03-30,Sweden,Cases,3700
+2020-03-30,Sweden,Deaths,110
+2020-03-30,United States,Cases,143025
+2020-03-30,United States,Deaths,2509
+2020-03-31,Belgium,Cases,11899
+2020-03-31,Belgium,Deaths,513
+2020-03-31,France,Cases,44550
+2020-03-31,France,Deaths,3024
+2020-03-31,Germany,Cases,61913
+2020-03-31,Germany,Deaths,583
+2020-03-31,Italy,Cases,101739
+2020-03-31,Italy,Deaths,11591
+2020-03-31,Sweden,Cases,4028
+2020-03-31,Sweden,Deaths,146
+2020-03-31,United States,Cases,164620
+2020-03-31,United States,Deaths,3170
+2020-04-01,Belgium,Cases,12775
+2020-04-01,Belgium,Deaths,705
+2020-04-01,France,Cases,52128
+2020-04-01,France,Deaths,3523
+2020-04-01,Germany,Cases,67366
+2020-04-01,Germany,Deaths,732
+2020-04-01,Italy,Cases,105792
+2020-04-01,Italy,Deaths,12430
+2020-04-01,Sweden,Cases,4435
+2020-04-01,Sweden,Deaths,180
+2020-04-01,United States,Cases,189618
+2020-04-01,United States,Deaths,4079
+2020-04-02,Belgium,Cases,13964
+2020-04-02,Belgium,Deaths,828
+2020-04-02,France,Cases,56989
+2020-04-02,France,Deaths,4032
+2020-04-02,Germany,Cases,73522
+2020-04-02,Germany,Deaths,872
+2020-04-02,Italy,Cases,110574
+2020-04-02,Italy,Deaths,13157
+2020-04-02,Sweden,Cases,4947
+2020-04-02,Sweden,Deaths,239
+2020-04-02,United States,Cases,216721
+2020-04-02,United States,Deaths,5138
+2020-04-03,Belgium,Cases,15348
+2020-04-03,Belgium,Deaths,1011
+2020-04-03,France,Cases,59105
+2020-04-03,France,Deaths,4503
+2020-04-03,Germany,Cases,79696
+2020-04-03,Germany,Deaths,1017
+2020-04-03,Italy,Cases,115242
+2020-04-03,Italy,Deaths,13917
+2020-04-03,Sweden,Cases,5466
+2020-04-03,Sweden,Deaths,282
+2020-04-03,United States,Cases,245540
+2020-04-03,United States,Deaths,6053
+2020-04-04,Belgium,Cases,16770
+2020-04-04,Belgium,Deaths,1143
+2020-04-04,France,Cases,64338
+2020-04-04,France,Deaths,6507
+2020-04-04,Germany,Cases,85778
+2020-04-04,Germany,Deaths,1158
+2020-04-04,Italy,Cases,119827
+2020-04-04,Italy,Deaths,14681
+2020-04-04,Sweden,Cases,6078
+2020-04-04,Sweden,Deaths,333
+2020-04-04,United States,Cases,277965
+2020-04-04,United States,Deaths,7157
+2020-04-05,Belgium,Cases,18431
+2020-04-05,Belgium,Deaths,1283
+2020-04-05,France,Cases,68605
+2020-04-05,France,Deaths,7560
+2020-04-05,Germany,Cases,91714
+2020-04-05,Germany,Deaths,1342
+2020-04-05,Italy,Cases,124632
+2020-04-05,Italy,Deaths,15362
+2020-04-05,Sweden,Cases,6443
+2020-04-05,Sweden,Deaths,373
+2020-04-05,United States,Cases,312237
+2020-04-05,United States,Deaths,8501
+2020-04-06,Belgium,Cases,19691
+2020-04-06,Belgium,Deaths,1447
+2020-04-06,France,Cases,70478
+2020-04-06,France,Deaths,8078
+2020-04-06,Germany,Cases,95391
+2020-04-06,Germany,Deaths,1434
+2020-04-06,Italy,Cases,128948
+2020-04-06,Italy,Deaths,15889
+2020-04-06,Sweden,Cases,6830
+2020-04-06,Sweden,Deaths,401
+2020-04-06,United States,Cases,337635
+2020-04-06,United States,Deaths,9647
+2020-04-07,Belgium,Cases,20814
+2020-04-07,Belgium,Deaths,1632
+2020-04-07,France,Cases,74390
+2020-04-07,France,Deaths,8911
+2020-04-07,Germany,Cases,99225
+2020-04-07,Germany,Deaths,1607
+2020-04-07,Italy,Cases,132547
+2020-04-07,Italy,Deaths,16525
+2020-04-07,Sweden,Cases,7206
+2020-04-07,Sweden,Deaths,477
+2020-04-07,United States,Cases,368196
+2020-04-07,United States,Deaths,10989
+2020-04-08,Belgium,Cases,22194
+2020-04-08,Belgium,Deaths,2035
+2020-04-08,France,Cases,78167
+2020-04-08,France,Deaths,10328
+2020-04-08,Germany,Cases,103228
+2020-04-08,Germany,Deaths,1861
+2020-04-08,Italy,Cases,135586
+2020-04-08,Italy,Deaths,17129
+2020-04-08,Sweden,Cases,7693
+2020-04-08,Sweden,Deaths,591
+2020-04-08,United States,Cases,398809
+2020-04-08,United States,Deaths,12895
+2020-04-09,Belgium,Cases,23403
+2020-04-09,Belgium,Deaths,2240
+2020-04-09,France,Cases,82048
+2020-04-09,France,Deaths,10869
+2020-04-09,Germany,Cases,108202
+2020-04-09,Germany,Deaths,2107
+2020-04-09,Italy,Cases,139422
+2020-04-09,Italy,Deaths,17669
+2020-04-09,Sweden,Cases,8419
+2020-04-09,Sweden,Deaths,687
+2020-04-09,United States,Cases,432132
+2020-04-09,United States,Deaths,14817
+2020-04-10,Belgium,Cases,24983
+2020-04-10,Belgium,Deaths,2523
+2020-04-10,France,Cases,86334
+2020-04-10,France,Deaths,12210
+2020-04-10,Germany,Cases,113525
+2020-04-10,Germany,Deaths,2373
+2020-04-10,Italy,Cases,143626
+2020-04-10,Italy,Deaths,18281
+2020-04-10,Sweden,Cases,9141
+2020-04-10,Sweden,Deaths,793
+2020-04-10,United States,Cases,466033
+2020-04-10,United States,Deaths,16690
+2020-04-11,Belgium,Cases,26667
+2020-04-11,Belgium,Deaths,3019
+2020-04-11,France,Cases,90676
+2020-04-11,France,Deaths,13197
+2020-04-11,Germany,Cases,117658
+2020-04-11,Germany,Deaths,2544
+2020-04-11,Italy,Cases,147577
+2020-04-11,Italy,Deaths,18851
+2020-04-11,Sweden,Cases,9685
+2020-04-11,Sweden,Deaths,870
+2020-04-11,United States,Cases,501560
+2020-04-11,United States,Deaths,18777
+2020-04-12,Belgium,Cases,28018
+2020-04-12,Belgium,Deaths,3346
+2020-04-12,France,Cases,93790
+2020-04-12,France,Deaths,13832
+2020-04-12,Germany,Cases,120479
+2020-04-12,Germany,Deaths,2673
+2020-04-12,Italy,Cases,152271
+2020-04-12,Italy,Deaths,19470
+2020-04-12,Sweden,Cases,10151
+2020-04-12,Sweden,Deaths,887
+2020-04-12,United States,Cases,529951
+2020-04-12,United States,Deaths,20608
+2020-04-13,Belgium,Cases,29647
+2020-04-13,Belgium,Deaths,3600
+2020-04-13,France,Cases,95403
+2020-04-13,France,Deaths,14393
+2020-04-13,Germany,Cases,123016
+2020-04-13,Germany,Deaths,2799
+2020-04-13,Italy,Cases,156363
+2020-04-13,Italy,Deaths,19901
+2020-04-13,Sweden,Cases,10483
+2020-04-13,Sweden,Deaths,899
+2020-04-13,United States,Cases,557571
+2020-04-13,United States,Deaths,22108
+2020-04-14,Belgium,Cases,30589
+2020-04-14,Belgium,Deaths,3903
+2020-04-14,France,Cases,98076
+2020-04-14,France,Deaths,14967
+2020-04-14,Germany,Cases,125098
+2020-04-14,Germany,Deaths,2969
+2020-04-14,Italy,Cases,159516
+2020-04-14,Italy,Deaths,20465
+2020-04-14,Sweden,Cases,10948
+2020-04-14,Sweden,Deaths,919
+2020-04-14,United States,Cases,582594
+2020-04-14,United States,Deaths,23649
+2020-04-15,Belgium,Cases,31119
+2020-04-15,Belgium,Deaths,4157
+2020-04-15,France,Cases,103573
+2020-04-15,France,Deaths,15729
+2020-04-15,Germany,Cases,127584
+2020-04-15,Germany,Deaths,3254
+2020-04-15,Italy,Cases,162488
+2020-04-15,Italy,Deaths,21069
+2020-04-15,Sweden,Cases,11445
+2020-04-15,Sweden,Deaths,1033
+2020-04-15,United States,Cases,609516
+2020-04-15,United States,Deaths,26057
+2020-04-16,Belgium,Cases,33573
+2020-04-16,Belgium,Deaths,4440
+2020-04-16,France,Cases,106206
+2020-04-16,France,Deaths,17167
+2020-04-16,Germany,Cases,130450
+2020-04-16,Germany,Deaths,3569
+2020-04-16,Italy,Cases,165155
+2020-04-16,Italy,Deaths,21647
+2020-04-16,Sweden,Cases,11927
+2020-04-16,Sweden,Deaths,1203
+2020-04-16,United States,Cases,639664
+2020-04-16,United States,Deaths,30985
+2020-04-17,Belgium,Cases,34809
+2020-04-17,Belgium,Deaths,4857
+2020-04-17,France,Cases,108847
+2020-04-17,France,Deaths,17920
+2020-04-17,Germany,Cases,133830
+2020-04-17,Germany,Deaths,3868
+2020-04-17,Italy,Cases,168941
+2020-04-17,Italy,Deaths,22172
+2020-04-17,Sweden,Cases,12540
+2020-04-17,Sweden,Deaths,1333
+2020-04-17,United States,Cases,671331
+2020-04-17,United States,Deaths,33284
+2020-04-18,Belgium,Cases,36138
+2020-04-18,Belgium,Deaths,5163
+2020-04-18,France,Cases,109252
+2020-04-18,France,Deaths,18681
+2020-04-18,Germany,Cases,137439
+2020-04-18,Germany,Deaths,4110
+2020-04-18,Italy,Cases,172434
+2020-04-18,Italy,Deaths,22747
+2020-04-18,Sweden,Cases,13216
+2020-04-18,Sweden,Deaths,1400
+2020-04-18,United States,Cases,702164
+2020-04-18,United States,Deaths,37054
+2020-04-19,Belgium,Cases,37183
+2020-04-19,Belgium,Deaths,5453
+2020-04-19,France,Cases,111821
+2020-04-19,France,Deaths,19323
+2020-04-19,Germany,Cases,139897
+2020-04-19,Germany,Deaths,4294
+2020-04-19,Italy,Cases,175925
+2020-04-19,Italy,Deaths,23227
+2020-04-19,Sweden,Cases,13822
+2020-04-19,Sweden,Deaths,1511
+2020-04-19,United States,Cases,735086
+2020-04-19,United States,Deaths,38910
+2020-04-20,Belgium,Cases,38496
+2020-04-20,Belgium,Deaths,5683
+2020-04-20,France,Cases,112606
+2020-04-20,France,Deaths,19718
+2020-04-20,Germany,Cases,141672
+2020-04-20,Germany,Deaths,4404
+2020-04-20,Italy,Cases,178972
+2020-04-20,Italy,Deaths,23660
+2020-04-20,Sweden,Cases,14385
+2020-04-20,Sweden,Deaths,1540
+2020-04-20,United States,Cases,759687
+2020-04-20,United States,Deaths,40682
+2020-04-21,Belgium,Cases,39983
+2020-04-21,Belgium,Deaths,5828
+2020-04-21,France,Cases,114657
+2020-04-21,France,Deaths,20265
+2020-04-21,Germany,Cases,143457
+2020-04-21,Germany,Deaths,4598
+2020-04-21,Italy,Cases,181228
+2020-04-21,Italy,Deaths,24114
+2020-04-21,Sweden,Cases,14777
+2020-04-21,Sweden,Deaths,1580
+2020-04-21,United States,Cases,787752
+2020-04-21,United States,Deaths,42539
+2020-04-22,Belgium,Cases,40956
+2020-04-22,Belgium,Deaths,5998
+2020-04-22,France,Cases,117324
+2020-04-22,France,Deaths,20796
+2020-04-22,Germany,Cases,145694
+2020-04-22,Germany,Deaths,4879
+2020-04-22,Italy,Cases,183957
+2020-04-22,Italy,Deaths,24648
+2020-04-22,Sweden,Cases,15322
+2020-04-22,Sweden,Deaths,1765
+2020-04-22,United States,Cases,825041
+2020-04-22,United States,Deaths,45063
+2020-04-23,Belgium,Cases,41889
+2020-04-23,Belgium,Deaths,6262
+2020-04-23,France,Cases,119151
+2020-04-23,France,Deaths,21340
+2020-04-23,Germany,Cases,148046
+2020-04-23,Germany,Deaths,5094
+2020-04-23,Italy,Cases,187327
+2020-04-23,Italy,Deaths,25085
+2020-04-23,Sweden,Cases,16004
+2020-04-23,Sweden,Deaths,1937
+2020-04-23,United States,Cases,842629
+2020-04-23,United States,Deaths,46784
+2020-04-24,Belgium,Cases,42797
+2020-04-24,Belgium,Deaths,6490
+2020-04-24,France,Cases,120804
+2020-04-24,France,Deaths,21856
+2020-04-24,Germany,Cases,150383
+2020-04-24,Germany,Deaths,5321
+2020-04-24,Italy,Cases,189973
+2020-04-24,Italy,Deaths,25549
+2020-04-24,Sweden,Cases,16755
+2020-04-24,Sweden,Deaths,2021
+2020-04-24,United States,Cases,869172
+2020-04-24,United States,Deaths,49963
+2020-04-25,Belgium,Cases,44293
+2020-04-25,Belgium,Deaths,6679
+2020-04-25,France,Cases,122577
+2020-04-25,France,Deaths,22245
+2020-04-25,Germany,Cases,152438
+2020-04-25,Germany,Deaths,5500
+2020-04-25,Italy,Cases,192994
+2020-04-25,Italy,Deaths,25969
+2020-04-25,Sweden,Cases,17567
+2020-04-25,Sweden,Deaths,2152
+2020-04-25,United States,Cases,890524
+2020-04-25,United States,Deaths,51017
+2020-04-26,Belgium,Cases,45325
+2020-04-26,Belgium,Deaths,6917
+2020-04-26,France,Cases,124114
+2020-04-26,France,Deaths,22614
+2020-04-26,Germany,Cases,154175
+2020-04-26,Germany,Deaths,5640
+2020-04-26,Italy,Cases,195351
+2020-04-26,Italy,Deaths,26384
+2020-04-26,Sweden,Cases,18177
+2020-04-26,Sweden,Deaths,2192
+2020-04-26,United States,Cases,939053
+2020-04-26,United States,Deaths,53189
+2020-04-27,Belgium,Cases,46134
+2020-04-27,Belgium,Deaths,7094
+2020-04-27,France,Cases,124575
+2020-04-27,France,Deaths,22856
+2020-04-27,Germany,Cases,155193
+2020-04-27,Germany,Deaths,5750
+2020-04-27,Italy,Cases,197675
+2020-04-27,Italy,Deaths,26644
+2020-04-27,Sweden,Cases,18640
+2020-04-27,Sweden,Deaths,2194
+2020-04-27,United States,Cases,965910
+2020-04-27,United States,Deaths,54876
+2020-04-28,Belgium,Cases,46687
+2020-04-28,Belgium,Deaths,7207
+2020-04-28,France,Cases,125770
+2020-04-28,France,Deaths,23293
+2020-04-28,Germany,Cases,156337
+2020-04-28,Germany,Deaths,5913
+2020-04-28,Italy,Cases,199414
+2020-04-28,Italy,Deaths,26977
+2020-04-28,Sweden,Cases,18926
+2020-04-28,Sweden,Deaths,2274
+2020-04-28,United States,Cases,988451
+2020-04-28,United States,Deaths,56245
+2020-04-29,Belgium,Cases,47334
+2020-04-29,Belgium,Deaths,7331
+2020-04-29,France,Cases,126835
+2020-04-29,France,Deaths,23660
+2020-04-29,Germany,Cases,157641
+2020-04-29,Germany,Deaths,6115
+2020-04-29,Italy,Cases,201505
+2020-04-29,Italy,Deaths,27359
+2020-04-29,Sweden,Cases,19621
+2020-04-29,Sweden,Deaths,2355
+2020-04-29,United States,Cases,1012583
+2020-04-29,United States,Deaths,58355
+2020-04-30,Belgium,Cases,47859
+2020-04-30,Belgium,Deaths,7501
+2020-04-30,France,Cases,128442
+2020-04-30,France,Deaths,24087
+2020-04-30,Germany,Cases,159119
+2020-04-30,Germany,Deaths,6288
+2020-04-30,Italy,Cases,203591
+2020-04-30,Italy,Deaths,27682
+2020-04-30,Sweden,Cases,20302
+2020-04-30,Sweden,Deaths,2462
+2020-04-30,United States,Cases,1039909
+2020-04-30,United States,Deaths,60966
+2020-05-01,Belgium,Cases,48519
+2020-05-01,Belgium,Deaths,7594
+2020-05-01,France,Cases,129581
+2020-05-01,France,Deaths,24376
+2020-05-01,Germany,Cases,159119
+2020-05-01,Germany,Deaths,6288
+2020-05-01,Italy,Cases,205463
+2020-05-01,Italy,Deaths,27967
+2020-05-01,Sweden,Cases,21092
+2020-05-01,Sweden,Deaths,2586
+2020-05-01,United States,Cases,1069826
+2020-05-01,United States,Deaths,63006
+2020-05-02,Belgium,Cases,49032
+2020-05-02,Belgium,Deaths,7703
+2020-05-02,France,Cases,130185
+2020-05-02,France,Deaths,24594
+2020-05-02,Germany,Cases,161703
+2020-05-02,Germany,Deaths,6575
+2020-05-02,Italy,Cases,207428
+2020-05-02,Italy,Deaths,28236
+2020-05-02,Sweden,Cases,21520
+2020-05-02,Sweden,Deaths,2653
+2020-05-02,United States,Cases,1103781
+2020-05-02,United States,Deaths,65068
+2020-05-03,Belgium,Cases,49517
+2020-05-03,Belgium,Deaths,7765
+2020-05-03,France,Cases,130979
+2020-05-03,France,Deaths,24760
+2020-05-03,Germany,Cases,162496
+2020-05-03,Germany,Deaths,6649
+2020-05-03,Italy,Cases,209328
+2020-05-03,Italy,Deaths,28710
+2020-05-03,Sweden,Cases,22082
+2020-05-03,Sweden,Deaths,2669
+2020-05-03,United States,Cases,1133069
+2020-05-03,United States,Deaths,66385
+2020-05-04,Belgium,Cases,49906
+2020-05-04,Belgium,Deaths,7844
+2020-05-04,France,Cases,131287
+2020-05-04,France,Deaths,24895
+2020-05-04,Germany,Cases,163175
+2020-05-04,Germany,Deaths,6692
+2020-05-04,Italy,Cases,210717
+2020-05-04,Italy,Deaths,28884
+2020-05-04,Sweden,Cases,22317
+2020-05-04,Sweden,Deaths,2679
+2020-05-04,United States,Cases,1158041
+2020-05-04,United States,Deaths,67682
+2020-05-05,Belgium,Cases,50267
+2020-05-05,Belgium,Deaths,7924
+2020-05-05,France,Cases,131863
+2020-05-05,France,Deaths,25201
+2020-05-05,Germany,Cases,163860
+2020-05-05,Germany,Deaths,6831
+2020-05-05,Italy,Cases,211938
+2020-05-05,Italy,Deaths,29079
+2020-05-05,Sweden,Cases,22721
+2020-05-05,Sweden,Deaths,2769
+2020-05-05,United States,Cases,1180634
+2020-05-05,United States,Deaths,68934
+2020-05-06,Belgium,Cases,50509
+2020-05-06,Belgium,Deaths,8016
+2020-05-06,France,Cases,132967
+2020-05-06,France,Deaths,25531
+2020-05-06,Germany,Cases,164897
+2020-05-06,Germany,Deaths,6996
+2020-05-06,Italy,Cases,213013
+2020-05-06,Italy,Deaths,29315
+2020-05-06,Sweden,Cases,23216
+2020-05-06,Sweden,Deaths,2854
+2020-05-06,United States,Cases,1204475
+2020-05-06,United States,Deaths,71078
+2020-05-07,Belgium,Cases,50781
+2020-05-07,Belgium,Deaths,8339
+2020-05-07,France,Cases,137150
+2020-05-07,France,Deaths,25809
+2020-05-07,Germany,Cases,166091
+2020-05-07,Germany,Deaths,7119
+2020-05-07,Italy,Cases,214457
+2020-05-07,Italy,Deaths,29684
+2020-05-07,Sweden,Cases,23918
+2020-05-07,Sweden,Deaths,2941
+2020-05-07,United States,Cases,1228603
+2020-05-07,United States,Deaths,73431
+2020-05-08,Belgium,Cases,51420
+2020-05-08,Belgium,Deaths,8415
+2020-05-08,France,Cases,137779
+2020-05-08,France,Deaths,25987
+2020-05-08,Germany,Cases,167300
+2020-05-08,Germany,Deaths,7266
+2020-05-08,Italy,Cases,215858
+2020-05-08,Italy,Deaths,29958
+2020-05-08,Sweden,Cases,24623
+2020-05-08,Sweden,Deaths,3040
+2020-05-08,United States,Cases,1256972
+2020-05-08,United States,Deaths,75670
+2020-05-09,Belgium,Cases,52011
+2020-05-09,Belgium,Deaths,8521
+2020-05-09,France,Cases,138421
+2020-05-09,France,Deaths,26230
+2020-05-09,Germany,Cases,168551
+2020-05-09,Germany,Deaths,7369
+2020-05-09,Italy,Cases,217185
+2020-05-09,Italy,Deaths,30201
+2020-05-09,Sweden,Cases,25265
+2020-05-09,Sweden,Deaths,3175
+2020-05-09,United States,Cases,1283929
+2020-05-09,United States,Deaths,77180
+2020-05-10,Belgium,Cases,52596
+2020-05-10,Belgium,Deaths,8581
+2020-05-10,France,Cases,138854
+2020-05-10,France,Deaths,26310
+2020-05-10,Germany,Cases,169218
+2020-05-10,Germany,Deaths,7395
+2020-05-10,Italy,Cases,218268
+2020-05-10,Italy,Deaths,30395
+2020-05-10,Sweden,Cases,25921
+2020-05-10,Sweden,Deaths,3220
+2020-05-10,United States,Cases,1309541
+2020-05-10,United States,Deaths,78794
+2020-05-11,Belgium,Cases,53081
+2020-05-11,Belgium,Deaths,8656
+2020-05-11,France,Cases,139063
+2020-05-11,France,Deaths,26380
+2020-05-11,Germany,Cases,169575
+2020-05-11,Germany,Deaths,7417
+2020-05-11,Italy,Cases,219070
+2020-05-11,Italy,Deaths,30560
+2020-05-11,Sweden,Cases,26322
+2020-05-11,Sweden,Deaths,3225
+2020-05-11,United States,Cases,1329799
+2020-05-11,United States,Deaths,79528
+2020-05-12,Belgium,Cases,53449
+2020-05-12,Belgium,Deaths,8707
+2020-05-12,France,Cases,139519
+2020-05-12,France,Deaths,26643
+2020-05-12,Germany,Cases,170508
+2020-05-12,Germany,Deaths,7533
+2020-05-12,Italy,Cases,219814
+2020-05-12,Italy,Deaths,30739
+2020-05-12,Sweden,Cases,26670
+2020-05-12,Sweden,Deaths,3256
+2020-05-12,United States,Cases,1347916
+2020-05-12,United States,Deaths,80684
+2020-05-13,Belgium,Cases,53779
+2020-05-13,Belgium,Deaths,8761
+2020-05-13,France,Cases,140227
+2020-05-13,France,Deaths,26991
+2020-05-13,Germany,Cases,171306
+2020-05-13,Germany,Deaths,7634
+2020-05-13,Italy,Cases,221216
+2020-05-13,Italy,Deaths,30911
+2020-05-13,Sweden,Cases,27272
+2020-05-13,Sweden,Deaths,3313
+2020-05-13,United States,Cases,1369964
+2020-05-13,United States,Deaths,82387
+2020-05-14,Belgium,Cases,53981
+2020-05-14,Belgium,Deaths,8843
+2020-05-14,France,Cases,140734
+2020-05-14,France,Deaths,27074
+2020-05-14,Germany,Cases,172239
+2020-05-14,Germany,Deaths,7723
+2020-05-14,Italy,Cases,222104
+2020-05-14,Italy,Deaths,31106
+2020-05-14,Sweden,Cases,27909
+2020-05-14,Sweden,Deaths,3460
+2020-05-14,United States,Cases,1390746
+2020-05-14,United States,Deaths,84133
+2020-05-15,Belgium,Cases,54288
+2020-05-15,Belgium,Deaths,8903
+2020-05-15,France,Cases,141356
+2020-05-15,France,Deaths,27425
+2020-05-15,Germany,Cases,173152
+2020-05-15,Germany,Deaths,7824
+2020-05-15,Italy,Cases,223096
+2020-05-15,Italy,Deaths,31368
+2020-05-15,Sweden,Cases,28582
+2020-05-15,Sweden,Deaths,3529
+2020-05-15,United States,Cases,1417889
+2020-05-15,United States,Deaths,85906
+2020-05-16,Belgium,Cases,54644
+2020-05-16,Belgium,Deaths,8959
+2020-05-16,France,Cases,141919
+2020-05-16,France,Deaths,27529
+2020-05-16,Germany,Cases,173772
+2020-05-16,Germany,Deaths,7881
+2020-05-16,Italy,Cases,223885
+2020-05-16,Italy,Deaths,31610
+2020-05-16,Sweden,Cases,29207
+2020-05-16,Sweden,Deaths,3646
+2020-05-16,United States,Cases,1443397
+2020-05-16,United States,Deaths,87568
+2020-05-17,Belgium,Cases,54989
+2020-05-17,Belgium,Deaths,9005
+2020-05-17,France,Cases,142291
+2020-05-17,France,Deaths,27625
+2020-05-17,Germany,Cases,174355
+2020-05-17,Germany,Deaths,7914
+2020-05-17,Italy,Cases,224760
+2020-05-17,Italy,Deaths,31763
+2020-05-17,Sweden,Cases,29677
+2020-05-17,Sweden,Deaths,3674
+2020-05-17,United States,Cases,1467884
+2020-05-17,United States,Deaths,88754
