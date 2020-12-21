@@ -252,7 +252,7 @@ covid <- left_join(covid, cname_table)
 covid
 
 #sink('covid1_13022020.txt'); covid; sink()
-#write_csv(covid, "covid1_13022020.csv")
+#write_csv(covid, "covid1_21122020.csv")
 
 ## Looks like a missing data code
 ## Also note that not everything in this dataset is a country
@@ -315,7 +315,7 @@ cu_out %>%
   arrange(desc(date))
 
 #sink('covid2_17052020.txt'); cu_out; sink()
-#write_csv(cu_out, "covid2_17052020.csv")
+#write_csv(cu_out, "covid2_21122020.csv")
 
 
 cu_out %>%
@@ -376,7 +376,7 @@ cov_curve <- covid %>%
 cov_curve
 
 #sink('cov_curve_17052020.txt'); cov_curve; sink()
-#write.csv(cov_curve,"cov_curve_17052020.csv")
+#write.csv(cov_curve,"cov_curve_21122020.csv")
 
 
 focus_cn <- c("DNK", "NOR", "SWE", "FIN", "ISL")
@@ -417,7 +417,7 @@ cov_curve %>%
   select(cname, cu_cases, cu_deaths, days_elapsed)
 
 #sink('cov_curve1_17052020.txt'); cov_curve; sink()
-#write.csv(cov_curve,"cov_curve1_17052020.csv")
+#write.csv(cov_curve,"cov_curve1_21122020.csv")
 
 cov_case_curve <- covid %>%
   select(date, cname, iso3, cases, deaths) %>%
@@ -440,7 +440,7 @@ cov_case_curve <- covid %>%
                         `Finland` = "Finland",
                         `Iceland` = "Iceland"))
 
-#write.csv(cov_case_curve,"cov_case_curve_17052020.csv")
+#write.csv(cov_case_curve,"cov_case_curve_21122020.csv")
 
 (p_case_curve <- cov_case_curve %>%
   mutate(end_label = case_when(iso3 %in% focus_cn ~ end_label,
@@ -467,8 +467,8 @@ cov_case_curve <- covid %>%
 )
 
 
-ggsave("figures/cov_case_grouped_17052020.png", p_case_curve,
-       width = 10, height = 8, dpi = 300)
+#ggsave("figures/cov_case_grouped_21122020.png", p_case_curve,
+#       width = 10, height = 8, dpi = 300)
 
 
 ## Replicate JB Murdoch's small multiple, only don't alphabetize countries.
@@ -490,7 +490,7 @@ country_panels <- cov_case_curve %>%
              cu_cases = max(cov_case_curve$cu_cases) - 9e4)
 
 country_panels
-#write.csv(country_panels,"country_panels_17052020.csv")
+#write.csv(country_panels,"country_panels_21122020.csv")
 
 cov_case_curve_bg <- cov_case_curve %>%
   select(-cname) %>%
@@ -548,10 +548,10 @@ cov_case_curve_endpoints <- cov_case_curve %>%
 )
 
 
-ggsave("figures/cov_case_sm_17052020.pdf",
+ggsave("figures/cov_case_sm_21122020.pdf",
        p_cov_case_sm, width = 8, height = 12)
 
-ggsave("figures/cov_case_sm_17052020.png",
+ggsave("figures/cov_case_sm_21122020.png",
        p_cov_case_sm, width = 8, height = 12, dpi = 300)
 
 
